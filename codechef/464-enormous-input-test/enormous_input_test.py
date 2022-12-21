@@ -1,6 +1,3 @@
-# We have populated the solutions for the 10 easiest problems for your support.
-# Click on the SUBMIT button to make a submission to this problem.
-
 (n, k) = map(int, input().split())
 
 n_divisible = 0
